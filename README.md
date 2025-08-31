@@ -2,7 +2,7 @@
 
 ★ Right now I am super interested in the intersection of engineering, cs, and medicine ★
 
-★ My most recent experience in cs are the quantum computing and systems programming classes I am in right now ★
+★ My most recent experiences in cs are the quantum computing and systems programming classes I am in right now ★
 
 ★ I am on GitHub because I want to fully immerse myself in bigger projects, learn a lot, and contribute even more ★
 
