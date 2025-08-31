@@ -1,8 +1,8 @@
-★ Hi! My name is Hailley, and I am a second-year at Yale University studying Electrical Engineering and Computer Science ★
+★ Hi! My name is Hailley, and I am a Junior at Yale University studying Electrical Engineering and Computer Science ★
 
-★ Right now I am super interested in the intersection of engineering, cs, and economics ★
+★ Right now I am super interested in the intersection of engineering, cs, and medicine ★
 
-★ My most recent experience in cs is the data structures class I'm currently taking (a lot of work but super fun) ★
+★ My most recent experience in cs are the quantum computing and systems programming classes I am in right now ★
 
 ★ I am on GitHub because I want to fully immerse myself in bigger projects, learn a lot, and contribute even more ★
 
